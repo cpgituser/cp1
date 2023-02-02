@@ -1,19 +1,21 @@
 {
   "objectInfo" : {
-    "id" : "6klZAlo1w0yitbwV1vm8w0",
-    "name" : "TestRia",
-    "type" : "Project",
+    "id" : "aF5m7zBk3WAfr13haRqbMq",
+    "name" : "Dictionary_D1",
+    "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
-        "major" : 0,
+        "major" : 1,
         "minor" : 0
       },
-      "repoInfo" : null,
+      "repoInfo" : {
+        "repoHandle" : "aF5m7zBk3WAfr13haRqbMq"
+      },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : null,
         "contentType" : "Binary",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     }
   },
